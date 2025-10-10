@@ -1,1 +1,3 @@
-# odin-LandingPage
+# The Odin Project - Landing Page
+
+This repository contains my solution for TOP's second project: "Landing Page" that uses CSS and HTML to build a landing page...
