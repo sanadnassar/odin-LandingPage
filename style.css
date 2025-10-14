@@ -146,6 +146,18 @@ ul {
 .lower {
     display: flex;
     background-color: #3882F6;
+    justify-content: center;
+    gap: 350px;
+    margin: 150px 350px;
+    border: 1px solid #3882F6;
+    border-radius: 10px;
+    color: white;
+}
+
+.lowertext {
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
 }
 
 .lower button{
@@ -154,6 +166,28 @@ ul {
     border-radius: 10px;
     color: white;
     font-size: 15px;
-    width: 100px;
-    
+    width: 150px;
+    height: 45px;
+    margin-top: 50px;
+}
+
+.lower p {
+    font-size: 16px;
+    margin-top: 4px;
+    margin-bottom: 40px;
+}
+
+.lower h4 {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.final {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: #1F2937;
+    color: #f9faf8;
+    font-weight: bold;
 }
